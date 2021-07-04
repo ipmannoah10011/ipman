@@ -1128,19 +1128,9 @@ client.on("message", async message => {
  botinfo,server,ping,invites,boosts,hightRole,nick,user,avatar,roles,emoji,sug,timer,youtube,google,weather,listemojis,my perms,
  covid,my perms,sbot,calc,chinfo,count,guild,date,year,se static <emojiserver>,movie <movie name>
 
-**Moderation**
-ban,kick,mute,unmute,say,embed,tempmute,color,bans,roleinf
-unban,unban all,warn,warnings,lock,unlock,close,open,pin,unpin,rules,settopic,move,help move,delete,mutevoice,unmute voice,
-region
 
-**Config**
-setLevel,setWelcomer,setReponse1,setReponse2,setReponse3,setLog,setAutoRole,setSug,
-toggleLevel [on/off],toggleLeave [on/off],autoreply1 [on/off],autoreply2 [on/off],autoreply3,[on/off],togglelog [on/off],toggleArole [on/off]
-,toggleSug [on/off],infosetLevel,infoAutoRole,infoSug,infoWelcome,infoAutoReponse1,infoAutoReponse2,infoAutoReponse3,infoLeave
-
-
- **Security**
-  anti ban [Number]
+  ___Security___
+ anti ban [Number]
  anti kick [Number]
  anti channelD [Number]
  anti channelC [Number]
@@ -1150,14 +1140,10 @@ toggleLevel [on/off],toggleLeave [on/off],autoreply1 [on/off],autoreply2 [on/off
  antibots [on/off]
  config
 
- **JUST FOR OWNER SHIP**
 
-**Games**
-slots,rps,8ball
-
- **Fun**
- meme,slap,cuddle,kiss,boom,man,girl
- sad,love,hack,dog
+  ___Fun___
+ meme,slap,cuddle,kiss,boom,
+ sad,love,hack,dog,girl,man
 
 [Support Server](https://discord.gg/zqgxs7RJpQ) 
 
